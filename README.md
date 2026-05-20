@@ -20,7 +20,7 @@ Bu proje iki araçtan oluşur:
 
 **1. `local-tool/`** — Kendi bilgisayarının donanım bilgilerini renkli terminal arayüzüyle görüntüler.
 
-**2. `domain-tool/`** — Active Directory ortamında, belirli bir OU'daki veya seçilen makinelerdeki tüm bilgisayarların donanım envanterini toplar ve CSV + GridView olarak çıktı verir.
+**2. `domain-tool/`** — Active Directory ortamında, belirli bir OU'daki veya seçilen makinelerdeki tüm bilgisayarların sistem envanterini toplar ve CSV + GridView olarak çıktı verir.
 
 ---
 
@@ -147,7 +147,7 @@ This project contains two tools:
 
 **1. `local-tool/`** — Displays detailed hardware information of the local machine in a colorful terminal UI.
 
-**2. `domain-tool/`** — Collects hardware inventory from computers in an Active Directory OU or a custom selection, and exports results to CSV + GridView.
+**2. `domain-tool/`** — Collects system inventory from computers in an Active Directory OU or a custom selection, and exports results to CSV + GridView.
 
 ---
 
