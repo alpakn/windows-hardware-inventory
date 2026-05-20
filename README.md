@@ -10,7 +10,7 @@
 
 ### 💡 Ne İşe Yarar?
 
-Donanım envanteri için kullanılan araçların büyük çoğunluğu ücretli. Ek bir yazılım kurmadan, yalnızca Windows'un yerleşik bileşenleri olan PowerShell, WinRM ve Active Directory kullanılarak domain ortamındaki makinelerin sistem bilgileri toplanabilir. Bu proje tam olarak bunu yapıyor.
+Donanım envanteri için kullanılan araçların büyük çoğunluğu ücretli. Ek bir yazılım kurmadan, yalnızca Windows'un yerleşik bileşenleri olan PowerShell, WinRM ve Active Directory kullanılarak domain ortamındaki makinelerin sistem bilgileri toplanabilir.
 
 ---
 
