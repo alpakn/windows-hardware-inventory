@@ -8,9 +8,7 @@
 
 ---
 
-## 🇹🇷 Türkçe
-
-### 💡 Neden?
+### 💡 Ne İşe Yarar?
 
 Donanım envanteri için kullanılan araçların büyük çoğunluğu ücretli. Ek bir yazılım kurmadan, yalnızca Windows'un yerleşik bileşenleri olan PowerShell, WinRM ve Active Directory kullanılarak domain ortamındaki makinelerin sistem bilgileri toplanabilir. Bu proje tam olarak bunu yapıyor.
 
@@ -133,11 +131,11 @@ Set-Service WinRM -StartupType Automatic
 
 <div align="center" id="english">
 
-## 🇬🇧 English
+## English
 
 </div>
 
-### 💡 Why?
+### 💡 What does it do?
 
 Most hardware inventory tools require a paid license. This project does the same job using only what Windows already provides — PowerShell, WinRM, and Active Directory — with no third-party software needed.
 
